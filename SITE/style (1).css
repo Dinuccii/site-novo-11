@@ -1,0 +1,77 @@
+.head 
+{
+  margin-top: 20px;
+}
+
+
+.title-degrade-loop-nerd {
+  
+  font-size: 2em;
+  font-family: 'open_sansbold';
+  width:100%;
+  float:left;
+  border-bottom:1px #c40000 solid;
+  padding-bottom:10px;
+  margin-bottom:10px;
+
+
+
+
+    background-color: #348134;
+    border: 10px solid #19443b;
+    width: 250px;
+    box-sizing: border-box;
+    margin-top: 0px 0px;
+
+  /* Definir o plano de fundo do texto */
+  background: linear-gradient(to right, #00ccd5 10%, #00131c 15%);
+  display: inline-block;
+  /*Recorte o fundo até o texto*/
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  /*Defina a cor do texto para transparente*/
+  color: transparent;
+}
+.title-degrade-love {
+  
+  font-size: 2em;
+  font-family: 'open_sansbold';
+  width:100%;
+  float:left;
+  border-bottom:1px #e8e8e8 solid;
+  padding-bottom:10px;
+  margin-bottom:10px;
+      
+  /* Definir o plano de fundo do texto */
+  background: linear-gradient(to right, #f00 5%, #fd7b7b 11%);
+  display: inline-block;
+  /*Recorte o fundo até o texto*/
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  /*Defina a cor do texto para transparente*/
+  color: transparent;
+
+
+
+}
+.title-degrade-cafe {
+  font-size: 2em;
+  font-family: 'open_sansbold';
+  width:100%;
+  float:left;
+  border-bottom:1px #e8e8e8 solid;
+  padding-bottom:10px;
+  margin-bottom:10px;
+      
+  /* Definir o plano de fundo do texto */
+  background: linear-gradient(to right, #884a4a 15%, #ff6000 20%);
+  display: inline-block;
+  /*Recorte o fundo até o texto*/
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  /*Defina a cor do texto para transparente*/
+  color: transparent;
+}
